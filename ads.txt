@@ -1,0 +1,12 @@
+# Ads.txt file for programming portfolio
+
+Name: Kira Kenjiro
+
+Story:
+Kira Kenjiro is a dedicated and enthusiastic computer science student with a passion for coding and problem-solving. He has honed his skills through various projects and is constantly seeking new challenges to expand his knowledge.
+
+Projects:
+1. Personal Blog Website: A custom-built blog website with a responsive design and interactive features.
+2. Programming Data Analysis: A tool for analyzing and visualizing data, built with Python and WakaTime.
+
+# End of file
